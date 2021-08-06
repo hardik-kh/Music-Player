@@ -19,5 +19,7 @@ App Screens
 
 ## Featues:-
 #### - You can search the music or sort it on the basis of Name , Size , Date
+#### - The songs can be played according to albums also
 #### - You can shuffle or repeat the songs
 #### - The songs can be controlled by mini player or by Notification 
+
