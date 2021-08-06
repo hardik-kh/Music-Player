@@ -9,3 +9,7 @@ App Screens
 | Album List       | Player Screen          | 
 | ------------- | -----:|
 | <img src ="screen3.jpg" height = "600" width = "300">      | <img src ="screen4.jpg" height = "600" width = "300"> |
+
+| Search Screen       | Notification Control        | 
+| ------------- | -----:|
+| <img src ="screen5.jpg" height = "600" width = "300">      | <img src ="screen6.jpg" height = "600" width = "300"> |
