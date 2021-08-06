@@ -18,5 +18,6 @@ App Screens
 | <img src ="screen5.jpg" height = "600" width = "300">      | <img src ="screen6.jpg" height = "600" width = "300"> |
 
 ## Featues:-
-##### -You can search the music or sort it on the basis of Name , Size , Date
-##### -You can shuffle or repeat the songs
+#### - You can search the music or sort it on the basis of Name , Size , Date
+#### - You can shuffle or repeat the songs
+#### - The songs can be controlled by mini player or by Notification 
