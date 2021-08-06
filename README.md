@@ -2,7 +2,7 @@
 
 App Screens
 -------
-| Music Screen   |Album Screen      | 
+| Music Screen   |Album Screen      | <align="center">
 | ------------- | ---------:|
 | <img src ="screen1.jpg" height = "600" width = "300">     | <img src ="screen2.jpg" height = "600" width = "300">|
 
