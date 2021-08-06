@@ -1,5 +1,8 @@
 # Music-Player
 
+## This is a Music Player app in which you can store your playlist and play it in various ways like <br/> 
+## shuffle and repeat which can be accessed from the app and the notification bar.
+
 App Screens
 -------
 | Music Screen   |Album Screen      | 
