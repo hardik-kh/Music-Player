@@ -23,3 +23,7 @@ App Screens
 #### - You can shuffle or repeat the songs 
 #### - The songs can be controlled by mini player or by Notification 
 
+## Limitations:-
+#### The app might not work on Api Level(29) and above due 
+#### since Android has deprecated DATA Column in MediaStore from Android 10
+
